@@ -1,0 +1,47 @@
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    color: #dbba12;
+    text-align: center;
+}
+
+div {
+    background-color: teal;
+    width: 50%;
+    margin: 100px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+table{
+    border: 2px solid blue;
+    border-collapse: collapse;
+    width: 90%;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center
+}
+
+th {
+    background-color: lightgray;
+}
+
+#top {
+    font-size: 36px;
+}
+#middle {
+    font-size: 24px;
+}
+#bottom {
+    font-size: 12px;
+}
+
+.name {
+    font-weight: bold;
+}
